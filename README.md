@@ -36,9 +36,8 @@ not with feature lists.
 
 | Project | Type | Link |
 |---|---|---|
-| Swiggy Product Teardown | Product Analysis | Coming soon |
-| Tier 3 Fintech Gap | Data-Driven PM Case Study | 
-[View](https://github.com/mrunalghode11/tier3-fintech-gap-case-study) |
+| Swiggy Product Teardown | Product Analysis | [View](https://github.com/mrunalghode11/swiggy-product-teardown) |
+| Tier 3 Fintech Gap | Data-Driven PM Case Study | [View](https://github.com/mrunalghode11/tier3-fintech-gap-case-study) |
 | Original PRD | Product Requirement Doc | Coming soon |
 
 ---
