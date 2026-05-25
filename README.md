@@ -40,6 +40,7 @@ not with feature lists.
 | Tier 3 Fintech Gap | Data-Driven PM Case Study | [View](https://github.com/mrunalghode11/tier3-fintech-gap-case-study) |
 | Google Maps Pickup Accuracy | PM Case Study | [View](https://github.com/mrunalghode11/google-maps-uber-driver-case-study) |
 | Automotive Warranty Tracker | Real-World PM Case Study | [View](https://github.com/mrunalghode11/automotive-warranty-tracker-case-study) |
+| Credit on UPI | Fintech PM Case Study | [View](https://github.com/mrunalghode11/credit-on-upi-case-study) |
 
 ---
 
