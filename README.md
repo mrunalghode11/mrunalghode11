@@ -38,7 +38,7 @@ not with feature lists.
 |---|---|---|
 | Swiggy Product Teardown | Product Analysis | [View](https://github.com/mrunalghode11/swiggy-product-teardown) |
 | Tier 3 Fintech Gap | Data-Driven PM Case Study | [View](https://github.com/mrunalghode11/tier3-fintech-gap-case-study) |
-| Original PRD | Product Requirement Doc | Coming soon |
+| Automotive Warranty Tracker | Real-World PM Case Study | [View](https://github.com/mrunalghode11/hyundai-warranty-tracker-case-study) |
 
 ---
 
