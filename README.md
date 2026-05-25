@@ -38,7 +38,8 @@ not with feature lists.
 |---|---|---|
 | Swiggy Product Teardown | Product Analysis | [View](https://github.com/mrunalghode11/swiggy-product-teardown) |
 | Tier 3 Fintech Gap | Data-Driven PM Case Study | [View](https://github.com/mrunalghode11/tier3-fintech-gap-case-study) |
-| Automotive Warranty Tracker | Real-World PM Case Study | [View](https://github.com/mrunalghode11/hyundai-warranty-tracker-case-study) |
+| Google Maps Pickup Accuracy | PM Case Study | [View](https://github.com/mrunalghode11/google-maps-uber-driver-case-study) |
+| Automotive Warranty Tracker | Real-World PM Case Study | [View](https://github.com/mrunalghode11/automotive-warranty-tracker-case-study) |
 
 ---
 
